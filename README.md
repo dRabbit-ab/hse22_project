@@ -18,7 +18,7 @@
 ![alt text](images/GCF_001642805.2_ASM164280v2_zhscore.png)
 ![alt text](images/GCF_017309605.1_ASM1730960v1_zhscore.png)
 ![alt text](images/GCF_016026735.1_ASM1602673v1_zhscore.png)
-![alt text](GCF_900187015.1_50465_F01_zhscore.png)
+![alt text](images/GCF_900187015.1_50465_F01_zhscore.png)
 
 ## Информация по полученным гомологичным кластерам
 
