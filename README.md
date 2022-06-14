@@ -59,28 +59,34 @@
 
 ## Множественное белковое выравнивание для каждого выбранного кластера
 
-![alt text](images/782_cluster_allignment.png)
-![alt text](images/3897_cluster_allignment.png)
-![alt text](images/3898_cluster_allignment.png)
-![alt text](images/2314_cluster_allignment.png)
-![alt text](images/259_cluster_allignment.png)
+||
+|:-:|
+|![alt text](images/782_cluster_allignment.png)|
+|![alt text](images/3897_cluster_allignment.png)|
+|![alt text](images/3898_cluster_allignment.png)|
+|![alt text](images/2314_cluster_allignment.png)|
+|![alt text](images/259_cluster_allignment.png)|
 
 ## Визуализация расположения участков Z-DNA для каждого выбранного кластера
 
-![alt text](images/782_zdna_genes.png)
-![alt text](images/3897_zdna_genes.png)
-![alt text](images/3898_zdna_genes.png)
-![alt text](images/2314_zdna_genes.png)
-![alt text](images/259_zdna_genes.png)
+||
+|:-:|
+|![alt text](images/782_zdna_genes.png)|
+|![alt text](images/3897_zdna_genes.png)|
+|![alt text](images/3898_zdna_genes.png)|
+|![alt text](images/2314_zdna_genes.png)|
+|![alt text](images/259_zdna_genes.png)|
 
 ## Бонус
 
 ## Визуализация расположения квадруплексов для каждого выбранного кластера
 
-![alt text](images/782_quadruplex_zdna_genes.png)
-![alt text](images/3897_quadruplex_zdna_genes.png)
-![alt text](images/3898_quadruplex_zdna_genes.png)
-![alt text](images/2314_quadruplex_zdna_genes.png)
-![alt text](images/259_quadruplex_zdna_genes.png)
+||
+|:-:|
+|![alt text](images/782_quadruplex_zdna_genes.png)|
+|![alt text](images/3897_quadruplex_zdna_genes.png)|
+|![alt text](images/3898_quadruplex_zdna_genes.png)|
+|![alt text](images/2314_quadruplex_zdna_genes.png)|
+|![alt text](images/259_quadruplex_zdna_genes.png)|
 
 Консервативность квадруплексов наблюдается только для кластера 3897, для двух гомологов
