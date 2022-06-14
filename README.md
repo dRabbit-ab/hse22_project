@@ -73,8 +73,12 @@
 
 ## Бонус
 
+## Визуализация расположения квадруплексов для каждого выбранного кластера
+
 ![alt text](images/782_quadruplex_zdna_genes.png)
 ![alt text](images/3897_quadruplex_zdna_genes.png)
 ![alt text](images/3898_quadruplex_zdna_genes.png)
 ![alt text](images/2314_quadruplex_zdna_genes.png)
 ![alt text](images/259_quadruplex_zdna_genes.png)
+
+Консервативность квадруплексов наблюдается только для кластера 3897, для двух гомологов
