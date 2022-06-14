@@ -58,9 +58,13 @@
 ## Множественное белковое выравнивание для каждого выбранного кластера
 
 ![alt text](images/782_cluster_allignment.png)
+
 ![alt text](images/3897_cluster_allignment.png)
+
 ![alt text](images/3898_cluster_allignment.png)
+
 ![alt text](images/2314_cluster_allignment.png)
+
 ![alt text](images/259_cluster_allignment.png)
 
 ## Визуализация расположения участков Z-DNA для каждого выбранного кластера
