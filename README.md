@@ -12,7 +12,8 @@
 | Serratia rubidaea | GCF_016026735.1_ASM1602673v1 | 1 | 4995010         | 4701 | 88.12% | 53100 | 557416 |
 | Serratia ficaria | GCF_900187015.1_50465_F01 | 1 | 5209973             | 4875 | 88.69% |54549 | 570729 |
 
-Распределения значений zh-score:
+### Распределения значений zh-score:
+
 ![alt text](images/GCF_004768745.1_ASM476874v1_zhscore.png)
 ![alt text](images/GCF_001642805.2_ASM164280v2_zhscore.png)
 ![alt text](images/GCF_017309605.1_ASM1730960v1_zhscore.png)
@@ -23,7 +24,9 @@
 
 Всего кластеров: 5036
 
-Гистограмма по кол-ву геномов:
+### Гистограмма по кол-ву геномов:
+
+![alt text](images/species_distribution.png)
 
 ## Таблица с информацией по выбранным кластерам
 
